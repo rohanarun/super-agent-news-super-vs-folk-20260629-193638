@@ -1,0 +1,43 @@
+{
+  "citations": [
+    {
+      "label": "Gemini computer use launch",
+      "source": "blog.google",
+      "url": "https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/"
+    },
+    {
+      "label": "Gemini operating computers and security implications",
+      "source": "searchenginejournal.com",
+      "url": "https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer/516000/"
+    },
+    {
+      "label": "Rising demand for personal AI agents (Adobe report)",
+      "source": "timesofindia.indiatimes.com",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/india-leads-asia-pacific-in-ai-use-60-of-consumers-want-their-own-personal-ai-agents-says-adobe/articleshow/111216260.cms"
+    },
+    {
+      "label": "Folk brand profile and positioning",
+      "source": "lbbonline.com",
+      "url": "https://www.lbbonline.com/news/getting-to-know-the-different-folk"
+    }
+  ],
+  "design_plan": "rng_seed=42; hero_math=1120px max-width, 2\u20133 line H1; AIDA_check=pass; bento_density=grid-auto-flow:dense verified; button_contrast=black/white pills pass; label_sweep=all competitors mentioned",
+  "generated_at": "2026-06-29T19:36:45.704611+00:00",
+  "headline": "Super vs Folk",
+  "site_brief": {
+    "audience": "people comparing Super with Folk",
+    "competitor": "Folk",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Folk. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Folk AI agent",
+      "Folk AI assistant",
+      "Folk automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-folk",
+    "title": "Super vs Folk"
+  },
+  "summary": "A fair, editorial comparison for people evaluating Super against Folk. Folk is positioned as a people\u2011centric CRM and collaboration tool, while Super is positioned as the sharper alternative for repeated computer\u2011use workflows: a personal AI agent that can operate real computers and reuse a computer-use cache to make ongoing work faster and cheaper over time. The page also situates Folk and Super within the wider market that includes Orchids, Siri, ChatGPT, Gemini, and Grok."
+}
